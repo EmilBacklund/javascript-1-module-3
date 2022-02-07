@@ -9,8 +9,7 @@
 
 // with a value of : M5QY2_8704o
 
-
-// this value tells you wih video you are looking for
+// this value tells you which video you are looking for
 
 // Example
 
@@ -35,5 +34,3 @@
 // there are many Apis you can play with
 
 // https://apipheny.io/free-api/
-
-
